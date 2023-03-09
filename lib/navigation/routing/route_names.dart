@@ -1,0 +1,11 @@
+const String HomeRoute = "home";
+const String LayoutRoute = "layout";
+const String ProductsRoute = "products";
+const String UsersRoute = "users";
+const String OrdersRoute = "orders";
+const String LoginRoute = "login";
+const String RegistrationRoute = "registration";
+const String AccuraciesRoute = "accuracies";
+const String RecommendedProductsRoute = "recommended";
+const String PageControllerRoute = "page";
+const String PastPurchaseRoute = "purchase";
